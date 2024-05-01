@@ -38,7 +38,7 @@
 }
 @layer components {
   .Container {
-    @apply w-full max-w-[1920px] mx-auto px-3 lg:px-12 2xl:px-24 3xl:px-16 4xl:px-10;
+    @apply w-full max-w-[1420px] mx-auto px-3 lg:px-12 2xl:px-24 3xl:px-16 4xl:px-10;
   }
 }
 

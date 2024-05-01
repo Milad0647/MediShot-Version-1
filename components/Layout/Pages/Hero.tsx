@@ -28,7 +28,7 @@ function Hero() {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [index]);
     return (
-        <div id='Hero' className='h-full pt-32 2xl:pt-20    4xl:pt-16 flex items-center justify-between  w-full'>
+        <div id='Hero' className='h-full pt-32 2xl:pt-32 flex items-center justify-between  w-full'>
             <div className='Container flex-1 h-full flex-col lg:flex-row flex items-center justify-between '>
                 <div className='lg:min-h-[600px] gap-[80px] flex flex-col justify-between flex-1 h-full  max-w-[430px] order-2 lg:order-1'>
                     <div className='flex flex-col items-center justify-center gap-6'>
