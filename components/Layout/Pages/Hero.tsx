@@ -39,6 +39,8 @@ function Hero() {
                                         strings: [
                                             "MediShots",
                                         ],
+                                        autoStart: true,
+                                        loop: true,
                                     }}
                                 />
                             </h1>
