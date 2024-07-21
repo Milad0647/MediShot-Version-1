@@ -41,6 +41,10 @@ export async function generateMetadata() {
     keywords:
       "Picture Perfect Care, Simplified",
     author: "MediShots",
+    robots: {
+      index: false,
+      follow: false,
+    },
     icons: [
       {
         rel: "icon",
